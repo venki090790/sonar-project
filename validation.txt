@@ -14,5 +14,7 @@ verify org.sonarqube:java-simple-sq-scanner:src/ComplexMethod.java
   measure ncloc is 26
 stop server
 
+ENJOY
+
 # This is test codee
 # zskdsfhkjhsdf fir zdsdads
